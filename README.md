@@ -1,0 +1,1 @@
+# dashboard-terremotos-1900-2025
